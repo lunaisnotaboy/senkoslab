@@ -1,0 +1,25 @@
+{
+  "name": "senkoslab",
+  "version": "0.0.1",
+  "description": "A Reddit bot to notify a user when a new episode of Senko's Lab comes out on r/Animemes.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lunaisnotaboy/senkoslab.git"
+  },
+  "keywords": [
+    "reddit"
+  ],
+  "author": "lunaisnotaboy",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/lunaisnotaboy/senkoslab/issues"
+  },
+  "homepage": "https://github.com/lunaisnotaboy/senkoslab#readme",
+  "dependencies": {
+    "snoowrap": "^1.21.0"
+  }
+}
